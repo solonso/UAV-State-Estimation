@@ -1,0 +1,5 @@
+X Position Measurement Innovation Std: 11.90436784630626 (m)
+Y Position Measurement Innovation Std: 11.066065463516416 (m)
+Z Position Measurement Innovation Std: 11.611403804351772 (m)
+Position Mean Squared Error: 61.66575896417925 (m)^2
+Velocity Mean Squared Error: 33.99786819445683 (m/s)^2
