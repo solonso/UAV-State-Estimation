@@ -1,7 +1,7 @@
 # UAV-State-Estimation
 
 ## Overview
-Welcome to **UAV-State-Estimation**, a comprehensive Python repository for 3D state estimation of unmanned aerial vehicles (UAVs) using advanced Kalman Filter techniques. This repository offers a unique blend of theoretical models and practical simulations, perfect for enthusiasts and professionals in the field of drone technology and autonomous systems.
+Welcome to **UAV-State-Estimation**, a comprehensive Python repository for 3D state estimation of unmanned aerial vehicles (UAVs) using Kalman Filter techniques. This repository offers a unique blend of theoretical models and practical simulations, perfect for enthusiasts and professionals in the field of drone technology and autonomous systems.
 
 ## Features
 - **3D Kalman Filter Tracking:** Utilizing the `KalmanFilterModel` class from `kftracker3d.py`, the repository implements a robust Kalman Filter for accurate state estimation in three dimensions.
